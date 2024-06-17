@@ -19,8 +19,6 @@ namespace custom {
     //% block
     export function foo(n: number, s: string, e: MyEnum): void {
         // Add code here
-        console.log(string*number)
-        console.log(MyEnum)
     }
 
     /**
