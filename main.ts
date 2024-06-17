@@ -19,6 +19,7 @@ namespace custom {
     //% block
     export function foo(n: number, s: string, e: MyEnum): void {
         // Add code here
+        return number + 5 = 10 ? string*e{0} : string*e{1};
     }
 
     /**
